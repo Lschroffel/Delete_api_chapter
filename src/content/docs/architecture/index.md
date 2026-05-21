@@ -19,7 +19,6 @@ data is defined by a class called JSONModel.
 - [Search indexing](./search)
 - [The ArchivesSpace public user interface](./public)
 - [OAI-PMH interface](./oai-pmh)
-- [API](./api)
 - [Database](./database)
 - [Directory structure](./directories)
 - [Dependencies](./languages)
